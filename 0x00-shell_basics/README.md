@@ -1,2 +1,1 @@
-Display current directory contents, including hidden files. Using  the long format
-how to display current directory contents
+Creating a script that creates a directory named my_first_directory in the /tmp/ directory.
