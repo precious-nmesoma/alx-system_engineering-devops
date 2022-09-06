@@ -10,3 +10,4 @@ Write a script that duplicates the last line of the file iacta
 Write a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
 Write a script that counts the number of directories and sub-directories in the current directory
 Write a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
+Create a script that decodes acrostics that use the first letter of each line
