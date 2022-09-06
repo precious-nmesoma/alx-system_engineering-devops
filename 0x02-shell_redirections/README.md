@@ -26,3 +26,4 @@ Replace all characters A and c from input to Z and e respectively.
 Replace all characters A and c from input to Z and e respectively.
 Replace all characters A and c from input to Z and e respectively.
 Create a script that removes all letters c and C from input
+Write a script that reverse its input.
