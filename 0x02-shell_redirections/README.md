@@ -14,3 +14,5 @@ Create a script that decodes acrostics that use the first letter of each line
 Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories
 Create a script that displays the 10 newest files in the current directory.
 Create a script that takes a list of words as input and prints only words that appear exactly once.
+Write a shell script that creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+Write a shell script that creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
